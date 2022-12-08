@@ -1,9 +1,4 @@
-import React from 'react';
-
-const ThemeContext = React.createContext()
-const ThemeProvider = (props) =>{
-
-    return (import React, { useState } from 'react';
+import React, { useState } from 'react';
 
 const ThemeContext = React.createContext()
 const ThemeProvider = (props) =>{
@@ -16,11 +11,4 @@ const ThemeProvider = (props) =>{
         </React.Fragment>
     )
 }
-export {ThemeProvider,ThemeContext}
-        <React.Fragment>
-
-        </React.Fragment>
-    )
-}
-
 export {ThemeProvider,ThemeContext}
